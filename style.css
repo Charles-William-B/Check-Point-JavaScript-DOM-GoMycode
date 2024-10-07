@@ -227,7 +227,6 @@
             color: rgb(212,149,86);
        }
 
-    
        button{
     
         height: 35px;
@@ -237,23 +236,12 @@
         justify-content: center;
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.336);
         margin-bottom: 25px;
-    
-       }
 
-       button:hover{
-
-        background-color: green;
-        color: #fff;
-       }
-    
-       a{    
-        text-decoration: none;
-        color: black;
-        font-weight: 600;
-       }
-
-       a:hover{
-        color: #ffff;
+        a{    
+            text-decoration: none;
+            color: black;
+            font-weight: 600;
+           }
        }
 
     }
